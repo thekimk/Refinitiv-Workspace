@@ -34,3 +34,9 @@ https://training.refinitiv.com/portal/product.php?pid=147
 - 강의자료의 `오탈자를 포함한 내용이슈`를 언제든 알려주시면 `최대한 빨리 업데이트` 할 계획입니다.
 - 저의 강의종류와 방향은 [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide)에서 확인할 수 있습니다.
 - 그 외 강의전반적인 질문이나 실습관련 이슈들의 자주 등장하는 질문들은 [Question-and-Answer](https://github.com/thekimk/Question-and-Answer)에서 확인할 수 있습니다.
+
+---
+
+### :sweat: Help Desk
+- Workspace 관련 `기술적인 장애` 또는 `데이터 문의`
+- 접근: `Refinitiv Workspace` $\rightarrow$ `우측 상단 Help 아이콘 클릭` $\rightarrow$ `Get Help & Support 클릭`
