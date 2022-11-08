@@ -27,6 +27,7 @@ https://training.refinitiv.com/portal/product.php?pid=147
 
 ---
 
+### :guardsman: 
 
 - 강의영상은 <a href="https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> `크크인싸이트`에 무료로 제공합니다. 
 - 강의 구성에 따라 영상과 자료의 `목차구성 넘버링`이 차이가 있을 수 있으나, `강의자료 기준`이 정확합니다.
