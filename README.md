@@ -21,7 +21,7 @@
 - `질문 및 피드백`과정이 없지만 `등록과정이 불필요`하고 `빠르게 지식 습득` 가능
 - **접근 페이지:** <a href="https://www.refinitiv.com/en/learning-centre" target="_blank"><img src="https://img.shields.io/badge/Learning Centre-FF0000"/></a>
 - Workspace for Students 예시: `Watch videos 아래` $\rightarrow$ `Watch videos 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` $\rightarrow$ `원하는 클래스 제목 클릭` $\rightarrow$ `신청자 정보 입력 후 하단 Watch now 클릭` $\rightarrow$ `바로 시청 가능`
-- 정보 입력 오류 시 일부내용 Open Training 이용: <a href="https://training.refinitiv.com/portal/product.php?pid=147" target="_blank"><img src="https://img.shields.io/badge/Open Training-FF0000"/></a>
+- **정보 입력 오류 시 일부내용 Open Training 이용:** <a href="https://training.refinitiv.com/portal/product.php?pid=147" target="_blank"><img src="https://img.shields.io/badge/Open Training-FF0000"/></a>
 
 ---
 
