@@ -29,12 +29,7 @@
 
 - 시크릿 모드 브라우저에서 `EAS(Eikon Administration Services)`를 접속하여 `관리자만` License Management탭 에서 `생성/관리` 가능
 - **접근 페이지:** <a href="https://my.refinitiv.com/content/mytr/en/signin.html" target="_blank"><img src="https://img.shields.io/badge/ESA My Refinitiv-red"/></a> $\rightarrow$ `좌측 Products` $\rightarrow$ `User Administration` $\rightarrow$ `Eikon License Management` or <a href="https://emea1.admin.cp.thomsonreuters.com/eas/Home/Content/ELMLicensesSubscription" target="_blank"><img src="https://img.shields.io/badge/Refinitiv EIKON-red"/></a>
-
-- 강의영상은 <a href="https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> `크크인싸이트`에 무료로 제공합니다. 
-- 강의 구성에 따라 영상과 자료의 `목차구성 넘버링`이 차이가 있을 수 있으나, `강의자료 기준`이 정확합니다.
-- 강의자료의 `오탈자를 포함한 내용이슈`를 언제든 알려주시면 `최대한 빨리 업데이트` 할 계획입니다.
-- 저의 강의종류와 방향은 [Curriculum-Guide](https://github.com/thekimk/Curriculum-Guide)에서 확인할 수 있습니다.
-- 그 외 강의전반적인 질문이나 실습관련 이슈들의 자주 등장하는 질문들은 [Question-and-Answer](https://github.com/thekimk/Question-and-Answer)에서 확인할 수 있습니다.
+- **License Management Tutorial:** <a href="https://my.refinitiv.com/content/mytr/en/policies/training-portal/videoarticle.v5099.html" target="_blank"><img src="https://img.shields.io/badge/License Management-red"/></a>
 
 ---
 
