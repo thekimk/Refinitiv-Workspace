@@ -27,8 +27,8 @@
 
 ### :guardsman: USER License Management
 
-- 시크릿 모드 브라우저에서 `EAS(Eikon Administration Services)`를 접속하여 `관리자`가 License Management탭 에서 `생성/관리` 가능
-- **EAS 페이지:** <a href="https://my.refinitiv.com/content/mytr/en/signin.html" target="_blank"><img src="https://img.shields.io/badge/My Refinitiv-FF0000"/></a>
+- 시크릿 모드 브라우저에서 `EAS(Eikon Administration Services)`를 접속하여 `관리자만` License Management탭 에서 `생성/관리` 가능
+- **접근 페이지:** <a href="https://my.refinitiv.com/content/mytr/en/signin.html" target="_blank"><img src="https://img.shields.io/badge/ESA My Refinitiv-red"/></a> $\rightarrow$ `좌측 Products` $\rightarrow$ `User Administration` $\rightarrow$ `Eikon License Management` or <a href="https://emea1.admin.cp.thomsonreuters.com/eas/Home/Content/ELMLicensesSubscription" target="_blank"><img src="https://img.shields.io/badge/Refinitiv EIKON-red"/></a>
 
 - 강의영상은 <a href="https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> `크크인싸이트`에 무료로 제공합니다. 
 - 강의 구성에 따라 영상과 자료의 `목차구성 넘버링`이 차이가 있을 수 있으나, `강의자료 기준`이 정확합니다.
