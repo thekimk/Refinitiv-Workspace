@@ -20,7 +20,7 @@
 - Workspace `기본적인 사용법과 데이터 추출 예시 등`의 기존 녹화된 영상을 제공
 - `질문 및 피드백`과정이 없지만 `등록과정이 불필요`하고 `빠르게 지식 습득` 가능
 - 접근 페이지: <a href="https://www.refinitiv.com/en/learning-centre" target="_blank"><img src="https://img.shields.io/badge/Live Training-FF0000"/></a>
-- Workspace for Students 예시: `Enrol in classes 아래` $\rightarrow$ `Available classes 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` $\rightarrow$ `원하는 클래스 제목 클릭` $\rightarrow$ `아래 Schedules Classes에서 Time zone 선택` $\rightarrow$ `Enrol 클릭` $\rightarrow$ `신청자 정보 입력 후 하단 Enrol in class 클릭` $\rightarrow$ `등록이 완료되면 확인 이메일 수령`
+- Workspace for Students 예시: `Watch videos 아래` $\rightarrow$ `Watch videos 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` $\rightarrow$ `원하는 클래스 제목 클릭` $\rightarrow$ `신청자 정보 입력 후 하단 Watch now 클릭` $\rightarrow$ `바로 시청 가능`
 
 ---
 
