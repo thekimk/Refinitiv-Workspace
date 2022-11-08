@@ -40,6 +40,7 @@ https://training.refinitiv.com/portal/product.php?pid=147
 ### :sweat: Help Desk
 - Workspace 관련 `기술적인 장애` 또는 `데이터 문의`
 - 접근: `Refinitiv Workspace` $\rightarrow$ `우측 상단 Help 아이콘 클릭` $\rightarrow$ `Get Help & Support 클릭`
+
 | **종류** | **방식** |
 |:---|:---|
 | `Live Chat` | `1:1 라이브 채팅`을 통해 지원 가능 |
