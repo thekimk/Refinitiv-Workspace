@@ -20,7 +20,7 @@
 - Workspace `기본적인 사용법과 데이터 추출 예시 등`의 기존 녹화된 영상을 제공
 - `질문 및 피드백`과정이 없지만 `등록과정이 불필요`하고 `빠르게 지식 습득` 가능
 - 접근 페이지: <a href="https://www.refinitiv.com/en/learning-centre" target="_blank"><img src="https://img.shields.io/badge/Learning Centre-FF0000"/></a>
-- Workspace for Students 예시: `Watch videos 아래` $\rightarrow$ `Watch videos 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` -> `원하는 클래스 제목 클릭` -> `신청자 정보 입력 후 하단 Watch now 클릭` $\rightarrow$ `바로 시청 가능`
+- Workspace for Students 예시: `Watch videos 아래` $\rightarrow$ `Watch videos 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` $\rightarrow$ `원하는 클래스 제목 클릭` $\rightarrow$ `신청자 정보 입력 후 하단 Watch now 클릭` $\rightarrow$ `바로 시청 가능`
 - 정보 입력 오류 시 일부내용 Open Training 이용: <a href="https://training.refinitiv.com/portal/product.php?pid=147&mkt=15" target="_blank"><img src="https://img.shields.io/badge/Open Training-FF0000"/></a>
 
 https://training.refinitiv.com/portal/product.php?pid=147
@@ -45,4 +45,4 @@ https://training.refinitiv.com/portal/product.php?pid=147
 |:---|:---|
 | `Live Chat` | `1:1 라이브 채팅`을 통해 지원 가능 |
 | `Create a Support Case` | 문의내용을 남기면 `헬프데스크에서 이메일로 답변` |
-| `Call Us` $rightarrow$ `Location 드롭다운`   $rightarrow$ `South Korea` | `오전8시~오후6시` 한국어 서비스 지원되며, 그 외 시간은 영어로 지원 |
+| `Call Us` -> `Location 드롭다운` -> `South Korea` | `오전8시~오후6시` 한국어 서비스 지원되며, 그 외 시간은 영어로 지원 |
