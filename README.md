@@ -39,7 +39,7 @@
 
 ---
 
-### :guardsman: USER License Management
+### :guardsman: USER License Management (전체 관리자만 가능)
 
 - 시크릿 모드 브라우저에서 `EAS(Eikon Administration Services)`를 접속하여 `관리자만` License Management탭 에서 `생성/관리` 가능
 - **접근 페이지:** <a href="https://my.refinitiv.com/content/mytr/en/signin.html" target="_blank"><img src="https://img.shields.io/badge/ESA My Refinitiv-red"/></a> $\rightarrow$ `좌측 Products` $\rightarrow$ `User Administration` $\rightarrow$ `Eikon License Management` or <a href="https://emea1.admin.cp.thomsonreuters.com/eas/Home/Content/ELMLicensesSubscription" target="_blank"><img src="https://img.shields.io/badge/Refinitiv EIKON-red"/></a>
