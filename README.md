@@ -8,11 +8,19 @@
 - 사용 `기기(PC, Mobile 지원)의 운영체제(Windows, macOS, iOS, Android지원)에` 맞는 파일을 다운로드 및 설치
 - 파일 다운로드 페이지: <a href="https://www.refinitiv.com/en/products/refinitiv-workspace/download-workspace" target="_blank"><img src="https://img.shields.io/badge/Workspace-Download-blue"/></a>
 
+---
+
 ### :book: Live Training at Learning Centre
 - Workspace `기본적인 사용법과 데이터 추출 예시 등`을 제공
 - `실시간`으로 열리는 다양한 수업에 참여하여 `질문 및 피드백을 즉각적`으로 받을 수 있음
 - 접근 페이지: <a href="https://www.refinitiv.com/en/learning-centre" target="_blank"><img src="https://img.shields.io/badge/Live Training-FF0000"/></a>
-- Workspace  예시: `Enrol in classes 아래` $\rightarrow$ `Available classes 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` $\rightarrow$ `원하는 클래스 제목 클릭` $\rightarrow$ `아래 Schedules Classes에서 Time zone 선택` $\rightarrow$ `Enrol 클릭` $\rightarrow$ `신청자 정보 입력 후 하단 Enrol in class 클릭` $\rightarrow$ `등록이 완료되면 확인 이메일 수령`
+- Workspace for Students 예시: `Enrol in classes 아래` $\rightarrow$ `Available classes 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` $\rightarrow$ `원하는 클래스 제목 클릭` $\rightarrow$ `아래 Schedules Classes에서 Time zone 선택` $\rightarrow$ `Enrol 클릭` $\rightarrow$ `신청자 정보 입력 후 하단 Enrol in class 클릭` $\rightarrow$ `등록이 완료되면 확인 이메일 수령`
+
+### :book: Live Training at Learning Centre
+- Workspace `기본적인 사용법과 데이터 추출 예시 등`을 제공
+- `실시간`으로 열리는 다양한 수업에 참여하여 `질문 및 피드백을 즉각적`으로 받을 수 있음
+- 접근 페이지: <a href="https://www.refinitiv.com/en/learning-centre" target="_blank"><img src="https://img.shields.io/badge/Live Training-FF0000"/></a>
+- Workspace for Students 예시: `Enrol in classes 아래` $\rightarrow$ `Available classes 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` $\rightarrow$ `원하는 클래스 제목 클릭` $\rightarrow$ `아래 Schedules Classes에서 Time zone 선택` $\rightarrow$ `Enrol 클릭` $\rightarrow$ `신청자 정보 입력 후 하단 Enrol in class 클릭` $\rightarrow$ `등록이 완료되면 확인 이메일 수령`
 
 ---
 
