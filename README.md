@@ -23,8 +23,6 @@
 - Workspace for Students 예시: `Watch videos 아래` $\rightarrow$ `Watch videos 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` $\rightarrow$ `원하는 클래스 제목 클릭` $\rightarrow$ `신청자 정보 입력 후 하단 Watch now 클릭` $\rightarrow$ `바로 시청 가능`
 - 정보 입력 오류 시 일부내용 Open Training 이용: <a href="https://training.refinitiv.com/portal/product.php?pid=147" target="_blank"><img src="https://img.shields.io/badge/Open Training-FF0000"/></a>
 
-https://training.refinitiv.com/portal/product.php?pid=147
-
 ---
 
 ### :guardsman: 
