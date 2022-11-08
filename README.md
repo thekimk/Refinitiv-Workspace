@@ -25,14 +25,6 @@
 
 ---
 
-### :guardsman: USER License Management
-
-- 시크릿 모드 브라우저에서 `EAS(Eikon Administration Services)`를 접속하여 `관리자만` License Management탭 에서 `생성/관리` 가능
-- **접근 페이지:** <a href="https://my.refinitiv.com/content/mytr/en/signin.html" target="_blank"><img src="https://img.shields.io/badge/ESA My Refinitiv-red"/></a> $\rightarrow$ `좌측 Products` $\rightarrow$ `User Administration` $\rightarrow$ `Eikon License Management` or <a href="https://emea1.admin.cp.thomsonreuters.com/eas/Home/Content/ELMLicensesSubscription" target="_blank"><img src="https://img.shields.io/badge/Refinitiv EIKON-red"/></a>
-- **사용자 ID 생성/관리 방법:** <a href="https://my.refinitiv.com/content/mytr/en/policies/training-portal/videoarticle.v5099.html" target="_blank"><img src="https://img.shields.io/badge/License Management Tutorial-red"/></a>
-
----
-
 ### :sweat: Help Desk
 - Workspace 관련 `기술적인 장애` 또는 `데이터 문의`
 - **접근:** `Refinitiv Workspace` $\rightarrow$ `우측 상단 Help 아이콘 클릭` $\rightarrow$ `Get Help & Support 클릭`
@@ -42,3 +34,11 @@
 | `Live Chat` | `1:1 라이브 채팅`을 통해 지원 가능 |
 | `Create a Support Case` | 문의내용을 남기면 `헬프데스크에서 이메일로 답변` |
 | `Call Us` -> `Location 드롭다운` -> `South Korea` | `오전8시~오후6시` 한국어 서비스 지원되며, 그 외 시간은 영어로 지원 |
+
+---
+
+### :guardsman: USER License Management
+
+- 시크릿 모드 브라우저에서 `EAS(Eikon Administration Services)`를 접속하여 `관리자만` License Management탭 에서 `생성/관리` 가능
+- **접근 페이지:** <a href="https://my.refinitiv.com/content/mytr/en/signin.html" target="_blank"><img src="https://img.shields.io/badge/ESA My Refinitiv-red"/></a> $\rightarrow$ `좌측 Products` $\rightarrow$ `User Administration` $\rightarrow$ `Eikon License Management` or <a href="https://emea1.admin.cp.thomsonreuters.com/eas/Home/Content/ELMLicensesSubscription" target="_blank"><img src="https://img.shields.io/badge/Refinitiv EIKON-red"/></a>
+- **사용자 ID 생성/관리 방법:** <a href="https://my.refinitiv.com/content/mytr/en/policies/training-portal/videoarticle.v5099.html" target="_blank"><img src="https://img.shields.io/badge/License Management Tutorial-red"/></a>
