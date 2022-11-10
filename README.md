@@ -1,8 +1,10 @@
 ## ✔️ Refinitiv Workspace for Datastream, Eikon and Thomson One <a href="https://www.refinitiv.com/en" target="_blank"><img src="https://img.shields.io/badge/Refinitiv-Homepace-blue"/></a>
 
-> 대표적인 글로벌 데이터 수집 공유 플랫폼인, Refinitiv(구 Reuters)사의 Workspace(구 Datastream 통합) 사용을 위한 튜토리얼입니다.
+> 대표적인 글로벌 데이터 수집 공유 플랫폼인, `Refinitiv(구 Reuters)사의 Workspace(구 Datastream 통합) 사용을 위한 튜토리얼`입니다.
 >
-> 아래 내용은 사용권한이 부여되어 아이디와 비밀번호를 알고 있는 분들만 적용가능한 가이드 입니다.
+> 아래 내용은 사용권한이 부여되어 `아이디와 비밀번호를 알고 있는 분들만 적용가능한 가이드` 입니다.
+>
+> 데이터의 사용 범위는, `교육용/연구용/개별프로젝트용`으로 `가능`하나 + `인턴이나 고용이 발생`되는 비즈니스 활용 `불가능`
 
 ---
 
