@@ -15,7 +15,7 @@
 
 ---
 
-## :book: Learning Centre <a href="https://www.refinitiv.com/en/learning-centre" target="_blank"><img src="https://img.shields.io/badge/Learning Centre Page-FF0000"/></a>
+## :book: Learning Centre <a href="https://www.refinitiv.com/en/learning-centre" target="_blank"><img src="https://img.shields.io/badge/Learning Centre-Homepage-FF0000"/></a>
 
 ### 1) Live Training
 - Workspace `기본적인 사용법과 데이터 추출 예시 등`을 제공
