@@ -6,7 +6,7 @@
 >
 > 데이터를 `교육용/연구용/개별프로젝트용`으로 `가능`하나 `인턴이나 고용이 발생`되는 비즈니스 활용 `불가능`합니다.
 >
-> <center><img src='Coverage.png' width='800'></center>
+> <center><img src='Coverage.png' width='700'></center>
 
 ---
 
