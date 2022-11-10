@@ -56,4 +56,4 @@
 - **접근 페이지1:** <a href="https://my.refinitiv.com/content/mytr/en/signin.html" target="_blank"><img src="https://img.shields.io/badge/ESA My Refinitiv-red"/></a> $\rightarrow$ `좌측 Products` $\rightarrow$ `User Administration` $\rightarrow$ `Eikon License Management`
 - **접근 페이지2:** <a href="https://emea1.admin.cp.thomsonreuters.com/eas/Home/Content/ELMLicensesSubscription" target="_blank"><img src="https://img.shields.io/badge/Refinitiv EIKON-red"/></a>
 - **사용자 ID 생성/관리 방법:** <a href="https://my.refinitiv.com/content/mytr/en/policies/training-portal/videoarticle.v5099.html" target="_blank"><img src="https://img.shields.io/badge/License Management Tutorial-red"/></a>
-- 현재 특수 상황을 고려하여 `김경원 교수`가 관리자지만, 향후 개인정보 이슈에서 안전하도록 `공공의 관리자`에게 `모든 권한과 데이터 전달 예정`
+- 현재 특수 상황을 고려하여 `김경원 교수`가 관리자지만, 향후 개인정보 이슈에 안전하도록 `공공 관리자`에게 `모든 권한과 데이터 전달 예정`
