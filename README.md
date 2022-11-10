@@ -6,6 +6,8 @@
 >
 > 데이터의 사용 범위는, `교육용/연구용/개별프로젝트용`으로 `가능`하나 + `인턴이나 고용이 발생`되는 비즈니스 활용 `불가능`
 
+<center><img src='Coverage.png' width='800'></center>
+
 ---
 
 ### :open_file_folder: Installation
