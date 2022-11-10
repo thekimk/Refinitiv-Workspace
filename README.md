@@ -43,6 +43,14 @@
 
 ---
 
+## :guardsman: Request for a New Account
+- `인천대학교 이메일` 주소를 기반으로만 생성 가능
+- `신규ID` 발급에 2~3일 정도 소요 가능하며 완료시 `생성완료 메일` 
+- **이메일:** <a href="mailto:thekimk.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thekimk.kr@gmail.com"/></a> <a href="mailto:thekimk@inu.ac.kr"><img src="https://img.shields.io/badge/INU Mail-005FF9?style=flat-square&logo=INU Mail&logoColor=white&link=mailto:thekimk@inu.ac.kr"/></a>
+
+
+---
+
 ## :guardsman: USER License Management (관리자만 가능하며 11/10기준 `김경원 교수`)
 
 - 시크릿 모드 브라우저에서 `EAS(Eikon Administration Services)`를 접속하여 `관리자만` License Management탭 에서 `생성/관리` 가능
