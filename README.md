@@ -10,6 +10,13 @@
 
 ---
 
+## :gift: Request for a New Account
+- `인천대학교 이메일` 주소를 기반으로만 생성 가능
+- `신규ID` 발급에 2~3일 정도 소요 가능하며 완료시 `생성완료 메일` 
+- **신청 이메일(김경원 교수):** <a href="mailto:thekimk.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thekimk.kr@gmail.com"/></a> <a href="mailto:thekimk@inu.ac.kr"><img src="https://img.shields.io/badge/INU Mail-005FF9?style=flat-square&logo=INU Mail&logoColor=white&link=mailto:thekimk@inu.ac.kr"/></a>
+
+---
+
 ## :open_file_folder: Installation <a href="https://www.refinitiv.com/en/products/refinitiv-workspace/download-workspace" target="_blank"><img src="https://img.shields.io/badge/Workspace-Download-blue"/></a>
 - 사용 `기기(PC, Mobile 지원)의 운영체제(Windows, macOS, iOS, Android지원)에` 맞는 파일을 다운로드 및 설치
 
@@ -39,13 +46,6 @@
 | `Live Chat` | `1:1 라이브 채팅`을 통해 지원 가능 |
 | `Create a Support Case` | 문의내용을 남기면 `헬프데스크에서 이메일로 답변` |
 | `Call Us` -> `Location 드롭다운` -> `South Korea` | `오전8시~오후6시` 한국어 서비스 지원되며, 그 외 시간은 영어로 지원 |
-
----
-
-## :gift: Request for a New Account
-- `인천대학교 이메일` 주소를 기반으로만 생성 가능
-- `신규ID` 발급에 2~3일 정도 소요 가능하며 완료시 `생성완료 메일` 
-- **신청 이메일(김경원 교수):** <a href="mailto:thekimk.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thekimk.kr@gmail.com"/></a> <a href="mailto:thekimk@inu.ac.kr"><img src="https://img.shields.io/badge/INU Mail-005FF9?style=flat-square&logo=INU Mail&logoColor=white&link=mailto:thekimk@inu.ac.kr"/></a>
 
 ---
 
