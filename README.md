@@ -10,14 +10,12 @@
 
 ---
 
-## :open_file_folder: Installation
+## :open_file_folder: Installation <a href="https://www.refinitiv.com/en/products/refinitiv-workspace/download-workspace" target="_blank"><img src="https://img.shields.io/badge/Workspace-Download-blue"/></a>
 - 사용 `기기(PC, Mobile 지원)의 운영체제(Windows, macOS, iOS, Android지원)에` 맞는 파일을 다운로드 및 설치
-- **파일 다운로드 페이지:** <a href="https://www.refinitiv.com/en/products/refinitiv-workspace/download-workspace" target="_blank"><img src="https://img.shields.io/badge/Workspace-Download-blue"/></a>
 
 ---
 
-## :book: Learning Centre
-- **접근 페이지:** <a href="https://www.refinitiv.com/en/learning-centre" target="_blank"><img src="https://img.shields.io/badge/Learning Centre-FF0000"/></a>
+## :book: Learning Centre <a href="https://www.refinitiv.com/en/learning-centre" target="_blank"><img src="https://img.shields.io/badge/Learning Centre Page-FF0000"/></a>
 
 ### 1) Live Training
 - Workspace `기본적인 사용법과 데이터 추출 예시 등`을 제공
