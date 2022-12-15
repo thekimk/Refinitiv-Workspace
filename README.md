@@ -27,19 +27,19 @@
 ### 1) Live Training
 - Workspace `기본적인 사용법과 데이터 추출 예시 등`을 제공
 - `실시간`으로 열리는 다양한 수업에 참여하여 `질문 및 피드백을 즉각적`으로 받을 수 있음
-- Workspace for Students 예시: `Enrol in classes 아래` $\rightarrow$ `Available classes 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` $\rightarrow$ `원하는 클래스 제목 클릭` $\rightarrow$ `아래 Schedules Classes에서 Time zone 선택` $\rightarrow$ `Enrol 클릭` $\rightarrow$ `신청자 정보 입력 후 하단 Enrol in class 클릭` $\rightarrow$ `등록이 완료되면 확인 이메일 수령`
+- Workspace for Students 예시: `Enrol in classes 아래` -> `Available classes 클릭` -> `왼쪽 Filters Product 드롭다운` -> `Refinitiv Workspace for Students 선택` -> `원하는 클래스 제목 클릭` -> `아래 Schedules Classes에서 Time zone 선택` -> `Enrol 클릭` -> `신청자 정보 입력 후 하단 Enrol in class 클릭` -> `등록이 완료되면 확인 이메일 수령`
 
 ### 2) On-demand Training
 - Workspace `기본적인 사용법과 데이터 추출 예시 등`의 기존 녹화된 영상을 제공
 - `질문 및 피드백`과정이 없지만 `등록과정이 불필요`하고 `빠르게 지식 습득` 가능
-- Workspace for Students 예시: `Watch videos 아래` $\rightarrow$ `Watch videos 클릭` $\rightarrow$ `왼쪽 Filters Product 드롭다운` $\rightarrow$ `Refinitiv Workspace for Students 선택` $\rightarrow$ `원하는 클래스 제목 클릭` $\rightarrow$ `신청자 정보 입력 후 하단 Watch now 클릭` $\rightarrow$ `바로 시청 가능`
+- Workspace for Students 예시: `Watch videos 아래` -> `Watch videos 클릭` -> `왼쪽 Filters Product 드롭다운` -> `Refinitiv Workspace for Students 선택` -> `원하는 클래스 제목 클릭` -> `신청자 정보 입력 후 하단 Watch now 클릭` -> `바로 시청 가능`
 - **정보 입력 오류 시 일부내용 Open Training 이용:** <a href="https://training.refinitiv.com/portal/product.php?pid=147" target="_blank"><img src="https://img.shields.io/badge/Open Training-FF0000"/></a>
 
 ---
 
 ## :sweat: Help Desk
 - Workspace 관련 `기술적인 장애` 또는 `데이터 문의`
-- **접근:** `Refinitiv Workspace` $\rightarrow$ `우측 상단 Help 아이콘 클릭` $\rightarrow$ `Get Help & Support 클릭`
+- **접근:** `Refinitiv Workspace` -> `우측 상단 Help 아이콘 클릭` -> `Get Help & Support 클릭`
 
 | **종류** | **방식** |
 |:---|:---|
@@ -54,7 +54,7 @@
 - **관리자:** `김경원 교수` <a href="https://sites.google.com/view/thekimk" target="_blank"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=Google&logoColor=white"/></a> <a href="https://scholar.google.com/citations?hl=ko&user=nHPe-4UAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat-square&logo=Google Scholar&logoColor=white"/></a> <a href="https://www.youtube.com/channel/UCEYxJNI5dhnn_CdC9BEWTuA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a> <a href="https://github.com/thekimk" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 - **이메일:** <a href="mailto:thekimk.kr@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thekimk.kr@gmail.com"/></a> <a href="mailto:thekimk@inu.ac.kr"><img src="https://img.shields.io/badge/INU Mail-005FF9?style=flat-square&logo=INU Mail&logoColor=white&link=mailto:thekimk@inu.ac.kr"/></a>
 - `시크릿 모드 브라우저`에서 `EAS(Eikon Administration Services)`를 접속하여 `관리자만` License Management탭 에서 `생성/관리` 가능
-- **접근 페이지1:** <a href="https://my.refinitiv.com/content/mytr/en/signin.html" target="_blank"><img src="https://img.shields.io/badge/ESA My Refinitiv-red"/></a>       
+- **접근 페이지1:** <a href="https://my.refinitiv.com/content/mytr/en/signin.html" target="_blank"><img src="https://img.shields.io/badge/ESA My Refinitiv-red"/></a> -> `좌측 Products` -> `User Administration` -> `Eikon License Management`
 - **접근 페이지2:** <a href="https://emea1.admin.cp.thomsonreuters.com/eas/Home/Content/ELMLicensesSubscription" target="_blank"><img src="https://img.shields.io/badge/Refinitiv EIKON-red"/></a>
 - **사용자 ID 생성/관리 방법:** <a href="https://my.refinitiv.com/content/mytr/en/policies/training-portal/videoarticle.v5099.html" target="_blank"><img src="https://img.shields.io/badge/License Management Tutorial-red"/></a>
 - 현재 특수 상황을 고려하여 `김경원 교수`가 관리자지만, 향후 개인정보 이슈에 안전하도록 `공공 관리자`에게 `모든 권한과 데이터 전달 예정`
