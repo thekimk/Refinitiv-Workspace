@@ -17,7 +17,16 @@
 
 ---
 
-## :open_file_folder: Installation <a href="https://www.refinitiv.com/en/products/refinitiv-workspace/download-workspace" target="_blank"><img src="https://img.shields.io/badge/Workspace-Download-blue"/></a>
+## :open_file_folder: Installation 
+
+### 1) System Test Tool
+- <a href="https://emea1-apps.platform.refinitiv.com/Apps/ProductSystemTest/" target="_blank"><img src="https://img.shields.io/badge/Tool-Download-blue"/></a>
+- `기기 또는 웹상` 중 어디에서 테스트 할지 선택 후 맞는 파일을 다운로드 및 설치
+- `다운로드 파일 실행 후`, 아래 사진처럼 `CIAM 부분 중 Internet 부분 모두 Pass 확인`
+> <center><img src='SystemCheck.png' width='600'></center>
+
+### 2) Workspace Download
+- <a href="https://www.refinitiv.com/en/products/refinitiv-workspace/download-workspace" target="_blank"><img src="https://img.shields.io/badge/Workspace-Download-blue"/></a>
 - 사용 `기기(PC, Mobile 지원)의 운영체제(Windows, macOS, iOS, Android지원)에` 맞는 파일을 다운로드 및 설치
 
 ---
