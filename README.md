@@ -1,6 +1,6 @@
 ## ✔️ Refinitiv Workspace for Datastream, Eikon and Thomson One <a href="https://www.refinitiv.com/en" target="_blank"><img src="https://img.shields.io/badge/Refinitiv-Homepace-blue"/></a>
 
-대표적인 글로벌 데이터 수집 공유 플랫폼인, `Refinitiv(구 Reuters)사의 Workspace(구 Datastream 통합) 사용을 위한 튜토리얼`입니다.
+**"대표적인 글로벌 데이터 수집 공유 플랫폼인, `Refinitiv(구 Reuters)사의 Workspace(구 Datastream 통합) 사용을 위한 튜토리얼`입니다."**
 
 (1) Refinitiv Wokspace의 인천대학교 `구독기간은 22년 10월 ~ 25년 3월 (2년 6개월)`
 
